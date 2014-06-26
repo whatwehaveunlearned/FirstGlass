@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.firstglass.MainActivity" >
+
+    <item 
+        android:id="@+id/menu_item_android"
+        android:orderInCategory="100"
+        android:showAsAction="never" 
+        android:title="android"/>
+        
+    <item 
+        android:id="@+id/menu_item_glass" 
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="glass"/>
+        
+    <item 
+        android:id="@+id/menu_item_exit" 
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Ask my name"
+        android:icon="/@drawable/name"/>
+        
+
+</menu>
