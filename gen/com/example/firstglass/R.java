@@ -29,7 +29,7 @@ public final class R {
         public static final int TextView10=0x7f090001;
         public static final int container=0x7f090000;
         public static final int menu_item_android=0x7f090002;
-        public static final int menu_item_exit=0x7f090004;
+        public static final int menu_item_ask=0x7f090004;
         public static final int menu_item_glass=0x7f090003;
     }
     public static final class layout {

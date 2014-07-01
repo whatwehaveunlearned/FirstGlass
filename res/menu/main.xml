@@ -13,13 +13,12 @@
         android:orderInCategory="100"
         android:showAsAction="never"
         android:title="glass"/>
-        
+    
     <item 
-        android:id="@+id/menu_item_exit" 
+        android:id="@+id/menu_item_ask" 
         android:orderInCategory="100"
         android:showAsAction="never"
-        android:title="Ask my name"
-        android:icon="/@drawable/name"/>
+        android:title="Ask for name"/>
         
 
 </menu>
